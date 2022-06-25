@@ -1,9 +1,14 @@
-document.write("This is Taofeek");
+document.write("My name is Taofeek Ajibade.\n");
 
-Name = document.querySelector(".name").innerHTML = "My name is Taofeek Ajibade";
+document.write("I am 5ft tall.\n");
 
-Height = document.querySelector(".height").innerHTML = "I am 6ft tall.";
+document.write("I am a citizen of Nigeria.\n");
 
-Country = document.querySelector(".country").innerHTML = "I am a citizen of Nigeria";
 
-alert(Name, Height, Country);
+
+Name = document.querySelector(".name").innerHTML = "My name is Taofeek Ajibade.";
+
+Height = document.querySelector(".height").innerHTML = "I am 5ft tall.";
+
+Country = document.querySelector(".country").innerHTML = "I am a citizen of Nigeria.";
+
